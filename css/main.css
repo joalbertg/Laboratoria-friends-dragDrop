@@ -1,0 +1,70 @@
+body {
+  background-color: white;
+  color:black;
+}
+
+header {
+  margin-top: 20px;
+}
+img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: underline;
+  color: green;
+  margin-bottom: 30px;
+}
+
+#bannerflog img {
+  height: 100px;
+}
+h1, p{
+  color: DeepPink ;
+}
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+textarea, input{
+  width: 100%;
+  border-radius: 0px;
+  border: 1px solid DeepPink;
+  margin-bottom: 20px;
+}
+
+.posteo {
+  color: DeepPink;
+}
+.posteo strong{
+  display: block;
+}
+.posteo hr {
+  border: 1px solid DeepPink;
+}
+/* PARA CORAZON */
+.corazon {
+  font-size: 40px;
+  color: gray;
+  text-align: center;
+}
+.rojo {
+  color: red;
+}
+
+/* PARA EJERCICIO HTML5 */
+.marco-foto {
+  min-height: 100px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.marco-foto > img {
+  margin-bottom: 0;
+}
+
+#img-primary {
+  padding-top: 13%;
+}
